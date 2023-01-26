@@ -114,3 +114,4 @@ function checkbox(){
 //     $("#pass, #pass2").keyup(validate);
 // });
 
+alert("Необходимо заполнить БД и удалить alert в bar_script.js");
